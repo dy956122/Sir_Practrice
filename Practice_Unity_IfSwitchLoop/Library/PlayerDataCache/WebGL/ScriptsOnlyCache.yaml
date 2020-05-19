@@ -5,11 +5,6 @@ ScriptsOnlyBuild:
     - WebGLNativeInputField
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    UnityEditor.Graphs.dll:
-    - UnityEditor.Graphs.AnimationBlendTree.Graph
-    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.Graph
-    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -51,23 +46,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11258}
     - Class: 114
       Script: {instanceID: 11312}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11354}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12584}
+      Script: {instanceID: 11828}
     - Class: 114
-      Script: {instanceID: 12932}
+      Script: {instanceID: 12592}
     - Class: 114
-      Script: {instanceID: 12962}
+      Script: {instanceID: 12940}
     - Class: 114
-      Script: {instanceID: 15410}
-    - Class: 114
-      Script: {instanceID: 17762}
+      Script: {instanceID: 12970}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -117,6 +112,12 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
+      Hash: a28af65814c058415c3b1cc8de53d315
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PracticeScript
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -151,6 +152,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 9669178b8ee47e79141ed8519e9595fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextureOffset
   - hash:
       serializedVersion: 2
       Hash: 8e0313c6f5e2ce35991fec2d64f8eaab
@@ -271,6 +278,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: a66536577d0b6f9e5f7f8c9f8b8d791e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WebGLNativeInputField
   - hash:
       serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
@@ -505,24 +518,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: a28af65814c058415c3b1cc8de53d315
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PracticeScript
-  - hash:
-      serializedVersion: 2
-      Hash: a66536577d0b6f9e5f7f8c9f8b8d791e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: WebGLNativeInputField
-  - hash:
-      serializedVersion: 2
-      Hash: 9669178b8ee47e79141ed8519e9595fb
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TextureOffset
   platform: 20
   scenePathNames:
   - Assets/Unity_IfSwitchLoop.unity
