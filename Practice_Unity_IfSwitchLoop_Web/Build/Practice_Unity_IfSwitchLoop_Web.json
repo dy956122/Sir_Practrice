@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Practice_Unity_IfSwitchLoop",
+"productVersion": "0.1",
+"dataUrl": "Practice_Unity_IfSwitchLoop_Web.data.unityweb",
+"wasmCodeUrl": "Practice_Unity_IfSwitchLoop_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Practice_Unity_IfSwitchLoop_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
