@@ -1,5 +1,1 @@
-sceneSetups:
-- path: C:/Users/409-01/Desktop/LIN/Back/back_Prototype_01/Assets/Scenes/GameTitle.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+sceneSetups: []
